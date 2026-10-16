@@ -4,8 +4,8 @@ if (tg) {
     tg.expand();
 }
 
-const SUPABASE_URL = "HTTPS://YOUR_SUPABASE_PROJECT_URL.supabase.co"; 
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "https://unuzteqocuplezjkgokv.supabase.co/rest/v1/"; 
+const SUPABASE_ANON_KEY = "sb_publishable_LQEx9ZCNUSeFe5K4mLFUfw_vNKDX6PW";
 
 let cart = [];
 
@@ -78,3 +78,4 @@ function checkout() {
         alert("Заказ сформирован!");
     }
 }
+  
